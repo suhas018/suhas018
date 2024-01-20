@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 - 📬 Connect with me on  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malakala-suhas-badrinath-355532252/)  for professional networking and collaboration opportunities.
 
 ---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&ensp;
@@ -66,6 +67,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" **alt="django" width="40" height="40"/>&ensp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" **alt="django" width="40" height="40"/>&ensp;
 </div>
+
 ---
 
 ### :fire: My Stats :
