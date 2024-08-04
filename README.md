@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 </div>
 
 ### :man_technologist: About Me :
-👋 Greetings! I am Malakala Suhas Badrinath, a dedicated Full Stack Developer based in India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+👋 Greetings! I am Malakala Suhas Badrinath, a dedicated Developer based in India<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🎓 Currently pursuing B.Tech in Computer Science (3rd year), with a focus on developing robust web applications.
+- 🎓 Currently pursuing B.Tech in Computer Science (4th year), with a focus on developing robust web applications.
 
 - 🔐 Actively engaged in the exploration of Cybersecurity alongside honing my Fullstack skills.
 
