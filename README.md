@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 🎓 Currently pursuing B.Tech in Computer Science (4th year), with a focus on developing robust web applications.
 
-- 🔐 Actively engaged in the exploration of Cybersecurity alongside honing my Fullstack skills.
+- 🔐 Actively engaged in the exploration of LLMs alongside honing my Fullstack skills.
 
 - ⚡ In my leisure time, I immerse myself in tech literature to stay abreast of industry developments.
 
